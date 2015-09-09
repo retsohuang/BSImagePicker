@@ -318,6 +318,7 @@
 		5573E8F41AECAC0600A82E74 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftMigration = 0700;
 				LastSwiftUpdateCheck = 0700;
 				LastUpgradeCheck = 0700;
 				ORGANIZATIONNAME = "Joakim Gyllström";
@@ -871,6 +872,7 @@
 				55A443101B2B9F8D003C0EEA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
